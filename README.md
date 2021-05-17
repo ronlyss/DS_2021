@@ -6,7 +6,7 @@ permbajtjen e tij   kthehet ne nje string  dhe plaintexti qe ne e japim te enkri
 Book Cipher punon duke i kthy fjalet ne plaintext e nje mesazhi me lokacionin e fjaleve nga libri te cilin e perdorim.
 
 *Enkriptimi
-Enkriptimi permes Cipher Book bëhet përmes indeksimit të një teksti duke numeruar fjalet nga 1 deri te n. Një shkronjë (ose një fjalë) kodohet nga numri i fjalës që fillon me të njëjtën shkronjë (ose tërë fjalën). *
+Enkriptimi permes Cipher Book bëhet përmes indeksimit të një teksti duke numeruar fjalet nga 1 deri te n. Një shkronjë (ose një fjalë) kodohet nga numri i fjalës që fillon me të njëjtën shkronjë (ose tërë fjalën).*
 
 *Dekriptimi
 Dekriptimi i Cipher Book bëhet duke bërë marrjen e fjalës që i përgjigjet numrit dhe nxjerrjen e kësaj të fundit ose vetëm shkronjën e saj të parë.*
