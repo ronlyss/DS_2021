@@ -1,9 +1,9 @@
 # DS_2021
-Grupi jone ka pasur për detyre të realizojë enkriptimin dhe dekriptimin e algoritmit bookcipher ,i cili është nje algoritem qe merr parasysh nje file text dhe
-permbajtja e tij  kthehet ne nje string  dhe plaintexti qe ne e japim te enkriptohet ne numrin e shkronjes qe eshte ne liber, dhe e kunderta per dekriptim ne i'a japim shifrat e ciphertextit dhe ai dekriptohet ne plaintext .
+Grupi jone ka pasur për detyrë të realizojë enkriptimin dhe dekriptimin e algoritmit bookcipher ,i cili është një algoritem që merr parasysh nje file text dhe
+përmbajtja e tij  kthehet ne nje string, plaintexti qe ne e japim te enkriptohet në numrin e shkronjës qe eshte në libër, dhe e kundërta per dekriptim ne i'a japim shifrat e ciphertextit dhe ai dekriptohet në plaintext .
  
-## Pershkrim rreth Book Cipher
-Book Cipher punon duke i kthyer fjalët ne plaintext e një mesazhi me lokacionin e fjaleve nga libri te cilin e perdorim.
+## Përshkrim rreth Book Cipher
+Book Cipher punon duke i kthyer fjalët në plaintext e një mesazhi me lokacionin e fjaleve nga libri te cilin e perdorim.
 
 *Enkriptimi
 Enkriptimi përmes Book Cipher bëhet përmes indeksimit të një teksti duke numeruar fjalet nga 1 deri te n. Një shkronjë (ose një fjalë) kodohet nga numri i fjalës që fillon me të njëjtën shkronjë (ose tërë fjalën).*
